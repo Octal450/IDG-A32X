@@ -1,0 +1,1 @@
+aircraft.livery.init("Aircraft/IDG-A32X/Models/Liveries/A320/CFM-100");
